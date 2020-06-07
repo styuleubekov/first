@@ -1,5 +1,5 @@
 install.packages('shinyWidgets')
-library(e1071)
+library(shiny)
 remotes::install_github('braverock/quantstrat')
 
 installedpacks = installed.packages()
