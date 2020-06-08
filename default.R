@@ -1,4 +1,4 @@
-install.packages('shinyWidgets')
+install.packages('shiny') #insert required lib name
 library(shiny)
 remotes::install_github('braverock/quantstrat')
 
